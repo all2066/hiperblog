@@ -1,5 +1,8 @@
-# hyperblog
-Un blog increible para el curso de Git y Github
+# Git, Github and Readme Format
+This project was to learn Git and Github, commands and practice  
+And learn about the content of a Readme.md file
+
+#The Next Section shows diferent kind of formats that will help us to explain future projects
 
 ### Features
 
