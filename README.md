@@ -2,6 +2,16 @@
 This project was to learn Git and Github (commands and practice).
 And learn about the content of a Readme.md file
 
+How to Write a Good Readme                   
+https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project                   
+                   
+MarkUp Language Tutorial                   
+https://commonmark.org/help/tutorial/                   
+                   
+Example                   
+https://github.com/kriasoft/Folder-Structure-Conventions/blob/master/README.md 
+
+
 # The Next Section shows diferent kind of formats that will help us to explain future projects
 
 ### Features
