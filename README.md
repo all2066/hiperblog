@@ -1,9 +1,9 @@
 # Git, Github and Readme Format
 ### Introduction
-This project was to learn and practice Git and Github commands.
+This project was made as result of a practice of Git and Github commands.
 And also learn about the content of a Readme.md file.
 
-README.md. file in a new project, make sure always includes the following elements:
+README.md. file in a project must be include the following elements:
 •	Titles and internal titles
 •	Introduction - the project's aim
 •	Technologies
@@ -18,7 +18,7 @@ Consider also using additional elements such as:
 •	Sources
 •	Other information
 
-
+##### Bibliography:
 How to Write a Good Readme                   
 https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project                   
                    
@@ -356,6 +356,4 @@ Andrew->>China: I am good thanks!
 
 ###End
 
-#Creado por ALL
-Incluye ejemplos en Windows, Linux y Mac
-Disponible para todas las edades
+#Created by ALL
