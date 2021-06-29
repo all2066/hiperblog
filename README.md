@@ -1,6 +1,23 @@
 # Git, Github and Readme Format
-This project was to learn Git and Github (commands and practice).
-And learn about the content of a Readme.md file
+### Introduction
+This project was to learn and practice Git and Github commands.
+And also learn about the content of a Readme.md file.
+
+README.md. file in a new project, make sure always includes the following elements:
+•	Titles and internal titles
+•	Introduction - the project's aim
+•	Technologies
+•	Launch
+
+Consider also using additional elements such as: 
+•	Table of contents
+•	Illustrations
+•	Scope of functionalities 
+•	Examples of use
+•	Project status 
+•	Sources
+•	Other information
+
 
 How to Write a Good Readme                   
 https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project                   
@@ -11,8 +28,15 @@ https://commonmark.org/help/tutorial/
 Example                   
 https://github.com/kriasoft/Folder-Structure-Conventions/blob/master/README.md 
 
+### Technologies
+HTML
+CSS
+Git
+GitHub
+
 
 # The Next Section shows diferent kind of formats that will help us to explain future projects
+
 
 ### Features
 
