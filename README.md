@@ -1,25 +1,27 @@
-# Git, Github and Readme Format
+# Git and Github Course
 
 ### Table of contents
 * [Introduction](#introduction) 
 * [Technologies](#technologies)
 * [Commands](#commands)
 * [Syntax](#syntax)
-* [Source](#source)
 * [Examples](#examples)
+* [Source](#source)
+
 
 
 ### Introduction
-This project was made as result of a practice of Git and Github commands.
-And also learn about the content of a Readme.md file.
+Git is software for tracking changes in any set of files. We can know all the history of changes in our project.
+In this course we practice with commands to the correct use of Git, and also to manage a remote repository using Github.
 
-README.md. file in a project must be include the following elements:
+In addition, we learned so much about the archive README.md and the guidelines that must be met.
+Include the following elements:
 * Titles and internal titles
 * Introduction - the project's aim
 * Technologies
 * Launch
 
-Consider also using additional elements such as: 
+Consider additional elements such as: 
 * Table of contents
 * Illustrations
 * Scope of functionalities 
@@ -70,15 +72,34 @@ git push origin master
 Now in the GitHub repository, the pushed files can be seen.
 
 
+### Examples
+
+```
+git log --all --graph --decorate --oneline   
+```
+This shows each commit on one line, decorates each line with any information about branches and repos and displays a graph where commits have branched or merged.
+![](imagenes/1.jpg)
+******************************
+```
+Git show-branch --all
+```
+Lists all the branches from the local repository, both the local and the remote tracking branches.
+![](imagenes/2.jpg)
+******************************
+```
+git pull origin master
+```
+Downloads new changes from the branch named master on the remote named origin and integrates them into your local HEAD branch
+![](imagenes/3.jpg)
+******************************
+```
+git push origin master
+```
+Push the commits in the local branch named master to the remote named origin
+![](imagenes/4.jpg)
+
 
 ### Source:
 How to Write a Good Readme                   
 https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project                   
-                   
-MarkUp Language Tutorial                   
-https://commonmark.org/help/tutorial/                   
-                   
-Example                   
-https://github.com/kriasoft/Folder-Structure-Conventions/blob/master/README.md 
-
 
