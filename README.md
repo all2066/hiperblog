@@ -6,7 +6,7 @@
 * [Commands](#commands)
 * [Syntax](#syntax)
 * [Examples](#examples)
-* [Source](#source)
+
 
 
 
@@ -98,8 +98,5 @@ git push origin master
 Push the commits in the local branch named master to the remote named origin
 ![](imagenes/4.jpg)
 
-
-### Source:
-How to Write a Good Readme                   
-https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project                   
+                
 
